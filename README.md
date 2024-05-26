@@ -1,5 +1,6 @@
-# Docker
+# Teknologi Komputasi Awan
 ---
-## soal latihan praktikum TKA modul 3
+## Soal latihan praktikum TKA modul 3 (Docker)
 ---
-dibuat oleh : Maulana Ahmad Zahiri
+dibuat oleh : 
+- Maulana Ahmad Zahiri
